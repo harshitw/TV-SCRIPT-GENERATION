@@ -27,14 +27,24 @@ Before step 7, if you don't have anaconda installed and you are using aws to for
 https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-16-04
 
 Follow the following steps :
+
 cd /tmp
+
 curl -O https://repo.continuum.io/archive/Anaconda3-5.0.1-Linux-x86_64.sh
+
 sha256sum Anaconda3-5.0.1-Linux-x86_64.sh
+
 bash Anaconda3-5.0.1-Linux-x86_64.sh
+
 press enter to continue
+
 To approve the liscence press yes
+
 Press enter
+
 Press yes so that you can use conda command 
+
 source ~/.bashrc // this command is used for activating installation
+
 
 Open in new terminal to see the changes, and repeat the above setup and subsequently create virtual environment for your system.
