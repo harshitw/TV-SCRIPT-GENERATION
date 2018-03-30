@@ -47,4 +47,4 @@ Press yes so that you can use conda command
 source ~/.bashrc // this command is used for activating installation
 
 
-Open in new terminal to see the changes, and repeat the above setup and subsequently create virtual environment for your system.
+# Open in new terminal to see the changes, and repeat the above setup and subsequently create virtual environment for your system.
