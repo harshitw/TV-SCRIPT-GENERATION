@@ -3,6 +3,8 @@
 # Udacity Project 3
 Generation of tv scripts using rnn's of simpsons tv show.
 
+Article Link -> https://medium.com/@harshitawasthi/making-your-own-simpsons-tv-script-7f791581bf03
+
 # Setup for the project 
 
 1. cd ~/Desktop/
