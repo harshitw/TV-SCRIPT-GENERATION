@@ -1,3 +1,7 @@
+<img width="1440" alt="AI" src="https://github.com/harshitw/TV-SCRIPT-GENERATION/assets/28987897/c8aa4d88-0578-4e57-a1ce-9a852a5fa444">
+<img width="1440" alt="DeepLearning" src="https://github.com/harshitw/TV-SCRIPT-GENERATION/assets/28987897/169d80f4-85b9-4379-a61e-376b6fe7bcd1">
+
+
 # TV-SCRIPT-GENERATION
 
 # Udacity Project 3
